@@ -1,7 +1,7 @@
 name: Hot News Crawler
 on:
   schedule:
-    - cron: "*/90 * * * *"  
+    - cron: "*/120 * * * *"  
   workflow_dispatch:
 
 concurrency:
